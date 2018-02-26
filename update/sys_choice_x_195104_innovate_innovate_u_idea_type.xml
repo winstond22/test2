@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_idea_type" table="x_195104_innovate_innovate" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Savings</label>
+            <language>en</language>
+            <name>x_195104_innovate_innovate</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-13 05:19:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87ce627c4fd01300e0962ed18110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-13 05:19:50</sys_updated_on>
+            <value>Cost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Improvement</label>
+            <language>en</language>
+            <name>x_195104_innovate_innovate</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-13 05:19:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bce627c4fd01300e0962ed18110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-13 05:19:50</sys_updated_on>
+            <value>Process</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Team Building</label>
+            <language>en</language>
+            <name>x_195104_innovate_innovate</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-13 05:19:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87ce627c4fd01300e0962ed18110c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-13 05:19:50</sys_updated_on>
+            <value>team</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_idea_type</element>
+            <name>x_195104_innovate_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-13 05:19:50</sys_created_on>
+            <sys_id>c3ce627c4fd01300e0962ed18110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_idea_type</sys_name>
+            <sys_package display_value="Innovate" source="x_195104_innovate">3a957cb44f101300e0962ed18110c72f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">3a957cb44f101300e0962ed18110c72f</sys_scope>
+            <sys_update_name>sys_choice_x_195104_innovate_innovate_u_idea_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-13 05:19:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
